@@ -11,7 +11,7 @@ I successfully set up and ran the [UserFinder](https://github.com/mishakorzik/Us
 ### Screenshots:
 Here's a quick look at my setup and the tool in action!
 
-![Setup Screenshot]("C:\Users\Ahsan\OneDrive\userfinder.png")
+![Setup Screenshot](C:\Users\Ahsan\OneDrive\userfinder.png)
 ![UserFinder Running](path-to-your-screenshot2.png)
 
 ### Credits:
