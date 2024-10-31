@@ -11,8 +11,8 @@ I successfully set up and ran the [UserFinder](https://github.com/mishakorzik/Us
 ### Screenshots:
 Here's a quick look at my setup and the tool in action!
 
-![Setup Screenshot](C:\Users\Ahsan\OneDrive\userfinder.png)
-![UserFinder Running](path-to-your-screenshot2.png)
+![Setup Screenshot]([C:\Users\Ahsan\OneDrive\userfinder.png](https://github.com/Ahsan-Sagheer/UserFinder/blob/main/userfinder.png))
+![UserFinder Running]([path-to-your-screenshot2.png](https://github.com/Ahsan-Sagheer/UserFinder/blob/main/userfinder2.png))
 
 ### Credits:
 A big thank you to [mishakorzik](https://github.com/mishakorzik) for creating and sharing this fantastic OSINT tool!
